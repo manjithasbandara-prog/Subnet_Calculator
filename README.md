@@ -34,11 +34,3 @@ Files
 -
 - `subnet_calc.py`: Main script and module exposing `calculate_subnet()`
 
-License
--
-This project is provided as-is. Add a LICENSE file if you'd like to set one.
-
-Contributing
--
-Open an issue or PR on the repository for feature requests or fixes.
-
